@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.items {
+    margin: 50px;
+    padding: 10px;
+    border: 5px solid rgb(43, 82, 255);
+    border-radius: 16px;
+}
+
+.item {
+    text-align: center;
+    border: 3px solid rgb(255, 0, 0);
+}
+
+.item p{
+    font-size: 2em;
+}
